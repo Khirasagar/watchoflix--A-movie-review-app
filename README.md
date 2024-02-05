@@ -36,7 +36,7 @@ Contributions are welcome! If you encounter any bugs or have suggestions for new
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Shivam171/Tvflix.git
+   git clone https://github.com/Khirasagar/watchoflix--A-movie-review-app.git
    ```
 
 2. Open `index.html` in your browser to explore Tvflix.
