@@ -1,6 +1,6 @@
 # Tvflix 🎞
 
-![Tvflix](https://github.com/Shivam171/Tvflix/assets/66107248/cc368a2b-23d8-4568-b4fe-7c36fe8a62c3)
+![Tvflix](https://github.com/Khirasagar/watchoflix--A-movie-review-app/assets/66107248/cc368a2b-23d8-4568-b4fe-7c36fe8a62c3)
 
 ## About this Repo 🚀
 
@@ -16,7 +16,7 @@ Tvflix is a simple and responsive web app built using Vanilla JS, leveraging the
 
 ## Live Demo 🌐
 
-Check out the live demo [here](https://shivam171.github.io/tvflix/)!
+Check out the live demo [here](https://khirasagar.github.io/watchoflix--A-movie-review-app/)!
 
 ## Current Status 🚧
 
